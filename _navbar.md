@@ -1,14 +1,14 @@
-# [Poll](poll/poll.md)
+* [Poll](poll/poll.md)
 
-# Question
+* Question
 
-# Voter
+* Voter
 
-# Role
+* Role
 
-# Audit Trail
+* Audit Trail
 
   * Email/SMS
   * Application Audit
 
-# Result
+* Result
