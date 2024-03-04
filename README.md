@@ -1,19 +1,19 @@
-# [docs.trustevote.com](docs.trustevote.com)
+* [docs.trustevote.com](docs.trustevote.com)
 
 User Guide for https://www.trustevote.com/
 
-# [Poll](poll/poll.md)
+* [Poll](poll/poll.md)
 
-# Question
+* Question
 
-# Voter
+* Voter
 
-# Role
+* Role
 
-# Audit Trail
+* Audit Trail
 
   * Email/SMS
   * Application Audit
 
-# Result
+* Result
 
