@@ -1,4 +1,4 @@
-* [docs.trustevote.com](docs.trustevote.com)
+# [docs.trustevote.com](docs.trustevote.com)
 
 User Guide for https://www.trustevote.com/
 
